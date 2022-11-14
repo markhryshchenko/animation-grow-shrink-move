@@ -1,0 +1,17 @@
+.box {
+  position: relative;
+}
+.container {
+  width: 98%;
+  position: relative;
+  margin: auto;
+}
+#d1 {
+  width: 150px;
+  height: 150px;
+  background: navy;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: 1px solid #333;
+}
