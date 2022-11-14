@@ -5,7 +5,8 @@
   "main": "script.js",
   "homepage": "https://markhryshchenko.github.io/animation grow-shrink-move",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
